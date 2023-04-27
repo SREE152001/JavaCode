@@ -10,6 +10,7 @@ public class anagram {
     
     static boolean isAnagram(String a, String b) {
         // Complete the function
+        //just texting for github
         boolean R=false;
        a=a.toLowerCase();
        b=b.toLowerCase();
